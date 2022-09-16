@@ -1,0 +1,8 @@
+---
+title: "Blog"
+image: "Profile_Portrait.jpg"
+output:
+  postcards::jolla
+---
+ 
+Blogs will be available soon.

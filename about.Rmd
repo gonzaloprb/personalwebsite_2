@@ -21,8 +21,6 @@ links:
 output:
   postcards::trestles
 ---
- 
-## Bio
 
 ## Bio
 
