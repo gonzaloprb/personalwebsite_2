@@ -13,3 +13,4 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
+This is a site made with R Markdown, and the distill, postcards and deployed to Netlify
