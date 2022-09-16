@@ -1,5 +1,6 @@
 ---
 title: "CV"
+image: "Profile_Portrait.jpg"
 output:
   postcards::jolla
 ---
