@@ -1,8 +1,14 @@
 ---
 title: "gprb"
-image: "Rebreater.jpg"
 description: |
-  Welcome to the website. I hope you enjoy it! Thanks for exploring!
+  Hi there!
+  
+  Welcome to the website. 
+  
+  
+  I hope you enjoy it! 
+  
+  Thanks for exploring!
 site: distill::distill_website
 ---
 
