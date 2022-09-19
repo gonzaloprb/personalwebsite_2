@@ -1,23 +1,22 @@
 ---
 title: "Gonzalo Pérez-Rosales, PHD"
 description: | 
-  
-  Hi there! Welcome to my website! 
-  
-  I hope you enjoy it! 
+ 
+  I am a coral reef ecologist and oceanographer.
   
 author:
   - name: Gonzalo Pérez-Rosales, Phd
     url: https://gonzaloperezrosales.netlify.app/
     affiliation: CRIOBE
     affiliation_url: http://www.criobe.pf/pro/personnel/doctorants/gonzalo-perez-rosales/
-  
 site: distill::distill_website
 ---
 
 ```{r layout = "l-screen", echo=FALSE}
 knitr::include_graphics("Rebreather.jpg")
 ```
+
+
 
 
 ```{r setup, include=FALSE}

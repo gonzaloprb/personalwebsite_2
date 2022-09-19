@@ -24,7 +24,7 @@
     {
       "path": "index.html",
       "title": "Gonzalo Pérez-Rosales, PHD",
-      "description": "\nHi there! Welcome to my website! \n\nI hope you enjoy it! \n",
+      "description": "\nI am a coral reef ecologist and oceanographer.\n",
       "author": [
         {
           "name": "Gonzalo Pérez-Rosales, Phd",
@@ -32,7 +32,7 @@
         }
       ],
       "contents": "\n\n\n\nThis is a site made with R Markdown, and the distill, postcards and deployed to Netlify\n\n\n\n",
-      "last_modified": "2022-09-19T16:30:53+02:00"
+      "last_modified": "2022-09-19T16:37:46+02:00"
     },
     {
       "path": "research.html",
