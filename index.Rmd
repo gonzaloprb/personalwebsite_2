@@ -1,16 +1,24 @@
 ---
-title: "gprb"
-description: |
-  Hi there!
+title: "Gonzalo Pérez-Rosales, PHD"
+description: | 
   
-  Welcome to the website. 
-  
+  Hi there! Welcome to my website! 
   
   I hope you enjoy it! 
   
-  Thanks for exploring!
+author:
+  - name: Gonzalo Pérez-Rosales, Phd
+    url: https://gonzaloperezrosales.netlify.app/
+    affiliation: CRIOBE
+    affiliation_url: http://www.criobe.pf/pro/personnel/doctorants/gonzalo-perez-rosales/
+  
 site: distill::distill_website
 ---
+
+```{r layout = "l-screen", echo=FALSE}
+knitr::include_graphics("Rebreather.jpg")
+```
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
