@@ -1,8 +1,20 @@
 ---
 title: "Research"  # any name you want here
+description: I study coral reef ecology with a particular interest in Mesophotic Coral Ecosystems. My ultimate goal is to use quantitative ecology analysis for conservation planning.
 output:
-   postcards::trestles
+  distill::distill_article:
+    toc: true
+    css:
+      - css/jhelvy.css
+      - css/small-spacing.css
+twitter:
+  creator: "@Perez_Rosales_G"
+base_url: https://gonzaloperezrosales.netlify.app/
 ---
+ 
+
+
+ 
  
 ## List of publications
 
