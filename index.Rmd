@@ -12,7 +12,15 @@ author:
 site: distill::distill_website
 ---
 
-![](Profile_Portrait.jpg){width=15}
+<br>
+
+
+```{r, fig.align='top', out.width='20%', echo=FALSE}
+
+# Otherwise, outside the ```r chunk add # ![](Profile_Portrait.jpg){width=15}
+
+knitr::include_graphics("Profile_Portrait.jpg")
+```
 
 
 ```{r layout = "l-screen", echo=FALSE}
