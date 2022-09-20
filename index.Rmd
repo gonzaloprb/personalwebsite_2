@@ -1,7 +1,6 @@
 ---
 title: "Gonzalo Pérez-Rosales, PHD"
 description: | 
-
   I am a coral reef ecologist and oceanographer.
 site: distill::distill_website
 ---
@@ -10,7 +9,7 @@ site: distill::distill_website
 My goal is to use quantiative ecology tools for the conservation planning of coral reefs.
 
 
-```{r layout = "l-screen", echo=FALSE}
+```{r layout = "l-page", echo=FALSE}
 knitr::include_graphics("Rebreather.jpg")
 ```
 

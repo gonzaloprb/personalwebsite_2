@@ -6,10 +6,6 @@ links:
     url: "gonzalo.prb@gmail.com"
   - label: '<i class="fab fa-twitter fa-lg"></i> Twitter'
     url: "https://twitter.com/Perez_Rosales_G"
-  - label: Instagram
-    url: "https://www.instagram.com/gon_perezrosales/?hl=en"
-  - label: Facebook
-    url: "https://www.facebook.com/gonzalo.perezrosalesblanch"
   - label: '<i class="fas fa-graduation-cap"></i> Google Scholar'
     url: "https://scholar.google.com/citations?user=qLfSUS4AAAAJ&hl=en"
   - label: '<i class="fab fa-github"></i> GitHub'
@@ -18,6 +14,10 @@ links:
     url: "https://www.linkedin.com/in/gonzalo-p%C3%A9rez-rosales-40a963b1/"
   - label: Orcid
     url: "https://twitter.com/Perez_Rosales_G"
+  - label: Instagram
+    url: "https://www.instagram.com/gon_perezrosales/?hl=en"
+  - label: Facebook
+    url: "https://www.facebook.com/gonzalo.perezrosalesblanch"
 output:
   postcards::trestles
 
