@@ -12,7 +12,7 @@ links:
     url: "https://www.facebook.com/gonzalo.perezrosalesblanch"
   - label: GoogleScholar
     url: "https://scholar.google.com/citations?user=qLfSUS4AAAAJ&hl=en"
-  - label: GitHub
+  - label: GitHub # icon: fa fa-github
     url: "https://github.com/gonzaloprb"
   - label: LinkedIn
     url: "https://www.linkedin.com/in/gonzalo-p%C3%A9rez-rosales-40a963b1/"

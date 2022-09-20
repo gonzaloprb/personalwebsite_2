@@ -15,4 +15,11 @@ navbar:
       href: blog.html
     - text: "CV"
       href: CV.html
+  left:
+    - icon: fa fa-twitter
+      href: https://mobile.twitter.com/Perez_Rosales_G
+    - icon: fa fa-linkedin
+      href: https://www.linkedin.com/in/gonzalo-p%C3%A9rez-rosales-40a963b1/
+    - icon: google-scholar
+      href: https://scholar.google.com/citations?user=qLfSUS4AAAAJ&hl=en
 output: distill::distill_article
