@@ -4,8 +4,6 @@ description: |
  
   I am a coral reef ecologist and oceanographer.
   
-
-  
 author:
   - name: Gonzalo Pérez-Rosales, Phd
     url: https://gonzaloperezrosales.netlify.app/
