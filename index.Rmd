@@ -3,25 +3,9 @@ title: "Gonzalo Pérez-Rosales, PHD"
 description: | 
 
   I am a coral reef ecologist and oceanographer.
-  
-author:
-  - name: Gonzalo Pérez-Rosales, Phd
-    url: https://gonzaloperezrosales.netlify.app/
-    affiliation: CRIOBE
-    affiliation_url: http://www.criobe.pf/pro/personnel/doctorants/gonzalo-perez-rosales/
 site: distill::distill_website
 ---
 
-
-<br>
-
-
-```{r, fig.align='top', out.width='20%', echo=FALSE}
-
-# Otherwise, outside the ```r chunk add # ![](Profile_Portrait.jpg){width=15}
-knitr::include_graphics("Profile_Portrait.jpg")
-
-```
 
 My goal is to use quantiative ecology tools for the conservation planning of coral reefs.
 
@@ -30,6 +14,13 @@ My goal is to use quantiative ecology tools for the conservation planning of cor
 knitr::include_graphics("Rebreather.jpg")
 ```
 
+
+```{r, fig.align='top', out.width='20%', echo=FALSE}
+
+# Otherwise, outside the ```r chunk add # ![](Profile_Portrait.jpg){width=15}
+# knitr::include_graphics("Profile_Portrait.jpg") # To display the picture remove the #
+
+```
 
 
 
@@ -40,5 +31,13 @@ knitr::opts_chunk$set(echo = FALSE)
 # https://rstudio.github.io/distill/website.html
 
 ```
+
+
+<!-- author: -->
+<!--   - name: Gonzalo Pérez-Rosales, Phd -->
+<!--     url: https://gonzaloperezrosales.netlify.app/ -->
+<!--     affiliation: CRIOBE -->
+<!--     affiliation_url: http://www.criobe.pf/pro/personnel/doctorants/gonzalo-perez-rosales/ -->
+
 
 This is a site made with R Markdown, and the distill, postcards and deployed to Netlify
