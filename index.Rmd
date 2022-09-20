@@ -1,7 +1,7 @@
 ---
 title: "Gonzalo Pérez-Rosales, PHD"
 description: | 
- 
+
   I am a coral reef ecologist and oceanographer.
   
 author:
@@ -12,15 +12,18 @@ author:
 site: distill::distill_website
 ---
 
+
 <br>
 
 
 ```{r, fig.align='top', out.width='20%', echo=FALSE}
 
 # Otherwise, outside the ```r chunk add # ![](Profile_Portrait.jpg){width=15}
-
 knitr::include_graphics("Profile_Portrait.jpg")
+
 ```
+
+My goal is to use quantiative ecology tools for the conservation planning of coral reefs.
 
 
 ```{r layout = "l-screen", echo=FALSE}

@@ -13,8 +13,6 @@ base_url: https://gonzaloperezrosales.netlify.app/
 ---
  
 
-
- 
  
 ## List of publications
 
