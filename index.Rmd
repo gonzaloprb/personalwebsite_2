@@ -2,11 +2,13 @@
 title: "Gonzalo Pérez-Rosales, PHD"
 description: | 
   I am a coral reef ecologist and oceanographer.
+  
+  Postdoctoral Investigator at Woods Hole Oceanographic Institution https://www.whoi.edu/
 site: distill::distill_website
 ---
 
 
-My goal is to use quantiative ecology tools for the conservation planning of coral reefs.
+# My goal is to use quantiative ecology tools for the conservation planning of coral reefs.
 
 
 ```{r layout = "l-page", echo=FALSE}
