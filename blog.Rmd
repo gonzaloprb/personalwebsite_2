@@ -1,8 +1,135 @@
 ---
-title: "Blog"
-image: "Profile_Portrait.jpg"
+title: "Blog"  # any name you want here
+description: This section is still in preparation. Coming out soon.
+
 output:
-  postcards::trestles
+  distill::distill_article:
+    toc: true
+    css:
+      - css/jhelvy.css
+      - css/small-spacing.css
+twitter:
+  creator: "@Perez_Rosales_G"
+base_url: https://gonzaloperezrosales.netlify.app/
 ---
  
 Blogs will be available soon.
+
+## Deephope expedition with Under The Pole. A dream come true
+
+During my PhD fieldwork, we realised an expedition across ...
+
+
+
+
+It 
+was 
+insane
+sailing
+diving 
+tekdiving
+and 
+everything
+
+
+
+I still need to write this section!
+
+It is going to be cool!
+
+I am 
+
+doing
+
+this
+
+after
+
+Gon
+
+
+
+```{r layout = "l-page", echo=FALSE}
+knitr::include_graphics("UTP_Family_Gazzola.jpg")
+```
+
+## My PhD journey
+
+
+## Two internships at the CRIOBE
+
+### Coding, coding and coding
+
+### Fieldwork and coding 
+
+
+
+## From 2015 - Making it to the cover of journals around the world 
+
+Richard Vevers [The ocean Agency](https://www.theoceanagency.org/) took this picture of me while filming bleaching in Lizard Island. This picture has been featured in the New York Times, etc. 
+
+```{r layout = "l-page", echo=FALSE}
+knitr::include_graphics("Gonzalo_Lizard.jpg")
+```
+
+
+## 2015-2016 Chasing Coral. From volunteering to an Emmy Award 
+
+```{r layout = "l-page", echo=FALSE}
+knitr::include_graphics("Chasing_Coral_Team.jpg")
+```
+
+Without any doubt, the best experience of my life so far. I join the team in the Keppel Islands (Inner GBR) to help install some underwater cameras. Soon, I got along very well with Zack Rago (the coral nerd and main character of the film) and Jeff Orlowski (the film director).
+
+We were living in the inner Great Barrier Reef, diving every day to record coral bleaching and give corals a voice to the world to show that Climate Change is a serious issue. After nearly two months, severe bleaching started in the Mid-Northern Great Barrier Reef but not in the Keppels. Solution? Let’s pack and go where bleaching is happening.
+
+Like this, I arrived at Lizard Island. Probably the most spectacular and selective island I have ever been to. There I had the most beautiful but also depressing dives of my life. From the plane, you could already see all tones of blues, from the lagoon, to the coral reefs to the open ocean. But wait, something was wrong. Corals were surprisingly fluorescing, showing bright colours. Later I will understand this beauty was not good. Our first divings to chose filming frames were mixing feelings difficult. It was brightly beautiful, but the corals were dying. We call it the beauty of death. Only animals like corals can show their maximum beauty before dying.
+
+
+```{r layout = "l-page", echo=FALSE}
+knitr::include_graphics("Fluorescing_Corals.jpg")
+```
+
+
+Corals were at the peak of heat stress and about to bleach, completely turning white, showing their skeleton. It was not only a couple of colonies. All the reefs turned white. There were still sharks and fishes, but these slowly disappeared, turning into a silent graveyard. (Except for herbivorous fish like Dori). But that was just the beginning; day after day, diving in the same sites and manually framing time-lapse images of corals dying. Corals started to be colonised by algae showing they were dead. Soft corals were melting. Reefs turned quiet. I am not exaggerating if I say I was seeing the entire ecosystem collapse.
+
+Once we had all the necessary content of the corals bleaching and dying, we returned to the Keppel Islands to retrieve the underwater cameras. Luckily, corals were doing better there. 
+
+(Image here)
+
+I thought my experience with Chasing Coral was over, but no, Jeff kept a surprise for me when he told me I could join the team again to go diving on the outer Great Barrier Reef. The idea was to dive and film some of the remaining healthy sites. That was on the Etheral sailboat and was, by far, the fanciest experience of my life. Diving close by eminent scientists (Charlie Veron and Ove Hoegh-Guldberg), I did the best divings of my life while learning from the best coral experts. There was still hope.
+
+The expedition ended up in Lizard to have a final view of the filming frames. I think we all cried underwater.
+
+During this experience, I met and learnt a lot from coral-leading scientists: Charlie Veron, Ove Hoegh-Guldberg, Andrew Baird, Justin Marshall and Terry Hughes. We became friends with the Chasing Coral Team. And most importantly, I fell in love with corals because of their beauty, fragility and importance. I realised we could not lose them, so I committed myself to continuing my academic journey into coral reef research. 
+
+```{r layout = "l-page", echo=FALSE}
+knitr::include_graphics("Chasing_Coral_Cover.jpg")
+```
+
+
+This is an experience I will never forget. You can watch the film now on [Netflix](https://www.netflix.com/title/80168188) 
+
+
+
+## Volunteering at University of Queensland. 
+
+This is one of the best coral reef labs worldwide. I did two experiences.
+
+### Mesophotic.org
+
+This project came as a volunteering experience at Coral Reef Ecosystems Lab (University of Queensland-Australia). Under the direction of Pim Bongaerts, we started developing the website [mesophotic](mesophotic.org). It is an online meta-database where all publications and contents related to mesophotic (from 30 to 150 m depth) are offered.
+
+The website displays content by platforms, categories, focus groups, locations and researchers. It has a behind-the-science section and early-career-scientists for communication. We display all tweets using the #mesophotic hashtag.
+
+As a database curator and content editor, I encourage you to contact us to contribute to the richness of our website. From this experience, I started working on databases and coding.
+The paper is available [here](https://academic.oup.com/database/article/doi/10.1093/database/baz140/5677403).
+
+### Heron Island fieldwork
+
+Additionally, a fieldwork opportunity arose, and I went to Heron Island Research Station. There, I  helped set up the Mesocosms project of Sophie Dove and Ove Hoegh-Guldberg. During my experience there, I learnt a lot about corals and how to conduct experimental studies.
+
+
+## Undergraduate student in the Canary Islands
+
+

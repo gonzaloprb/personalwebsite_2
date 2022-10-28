@@ -22,6 +22,7 @@ output:
   postcards::trestles
 
 
+
 ---
 
 ## Bio
@@ -33,9 +34,9 @@ Finishing a M.Sc. in Biodiversity and Environmental Management of Coral Reefs be
 I completed a Ph.D. at EPHE-PSL at the CRIOBE focusing on the Mesophotic Coral Ecosystems of French Polynesia, again between French Polynesia and France.
 During my thesis entitled: **Diving deep on the reef slopes in French Polynesia: new insights into mesophotic coral ecosystems.** I was under the supervision of Laetitia Hédouin and Valeriano Parravicini. This thesis was possible thanks to the DEEPHOPE expedition and project with the Under The Pole team, for which I was an offshore scientist collecting data for my thesis and for others. The thesis was mostly carried out in French Polynesia. 
 
-I am currently looking for PostDoc opportunities. 
-My ultimate goal is to provide empirical research and tools for science-based decision actions for the oceans' future with global changes.
+I am currently a PostDoc at [WHOI](https://www.whoi.edu/) at [Cohen Lab](https://www2.whoi.edu/site/cohenlab/super-reefs/), working on the [Super Reefs Project](https://superreefs.whoi.edu/).
 
+My ultimate goal is to provide empirical research and tools for science-based conservation decisions for the oceans' future with global changes.
 
 
 ## Education
@@ -53,10 +54,25 @@ M.S.c Biodiversity and environmental management | 2016 - 2018
 
 B.S.c in Marine Science & Oceanography | 2010 - 2014 
 
-## Experience
+## Experience 
+
+**CRIOBE** | PhD candidate and Master internship | 2016 - 2022 
 
 **Under The Pole** | Fieldwork scientist | 2018 - 2019
 
-**CRIOBE** | PhD candidate and Master internship | 2016 - 2022 
+**Mesophotic.org** | Coordination and Data curation | 2016 - now
+
+**Chasing Coral Film** | Production assistant, camera and fieldwork team member | 2016 
+
+**University of Queensland** | Volunteer Coral Reef Ecosystems Lab | 2016 
+
+**Oceanografica** | Marine Science Campaigns - Communication and Science | 2013 - 2014 
+
+
+## More information available in my [CV](https://gonzaloperezrosales.netlify.app/CV_Gonzalo_PerezRosales.pdf)
+
+
+
+
 
 

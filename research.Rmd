@@ -1,6 +1,7 @@
 ---
 title: "Research"  # any name you want here
 description: I study coral reef ecology with a particular interest in Mesophotic Coral Ecosystems. My ultimate goal is to use quantitative ecology analysis for conservation planning.
+
 output:
   distill::distill_article:
     toc: true
@@ -12,10 +13,9 @@ twitter:
 base_url: https://gonzaloperezrosales.netlify.app/
 ---
  
-
+My current and future research will be working on the [Super Reefs Project](https://superreefs.whoi.edu/) at [WHOI](https://www.whoi.edu/) to discover reefs across the tropics that can survive global warming and climate change. 
  
-## List of publications
-
+## List of publications 
 
 
 Pérez-Rosales G, Brandl SJ, Chancerelle Y, Siu G, Martinez E, Parravicini V, Hédouin L. (2021) Documenting decadal disturbance dynamics reveals archipelago-specific recovery and compositional change on Polynesian reefs. Marine Pollution Bulletin; 170:112659. https://doi.org/10.1016/j.marpolbul.2021.112659
@@ -35,3 +35,41 @@ Moritz C, Brandl SJ, Rouzé H, Vii J, Pérez-Rosales G, Bosserelle P, Chancerell
 Carlot J, Rouzé H, Barneche DR, Mercière A, Espiau B, Cardini U, Brandl DJ, Casey JM, Pérez-Rosales G, Adjeroud M, Hédouin L, Parravicini V. (2022) Scaling up calcification, respiration, and photosynthesis rates of six prominent coral taxa. Ecology and Evolution https://doi.org/10.1002/ece3.8613 
 
 Pérez-Rosales G, Hernández-Agreda A, Bongaerts P, Rouzé H, Pichon M, Carlot J, Torda G, UTP Consortium, Hédouin L, Parravicini V. (2022) Mesophotic depths hide high coral cover communities in French Polynesia. Science of the Total Environment https://doi.org/10.1016/j.scitotenv.2022.157049 
+
+
+## International conferences and workshops
+
+International Coral Reef Symposium (Bremen 2022)|
+  - First author oral presentation: Diving deep in French Polynesia reveals new insights on the ecological importance of mesophotic coral ecosystems
+  - Oral presentation: Scleractinian coral assemblages on the deeper fore-reef slopes: mesophotic, oligophotic, … or rariphotic?
+
+International Coral Reef Symposium (Remotely-Bremen 2021)
+  - Oral presentation: Diving deep in paradise shines new light on the twilight zone: preliminary results of the “deephope” mesophotic programme in french polynesia
+
+European Coral Reef Symposium (Oxford, 2017)
+  - Workshop: Delving into the Depths: What do we study on Mesophotic Reefs? 
+
+Workshop: Launching the DEEPHOPE Project. Scientific consortium and Under The Pole (Moorea, 2018)
+
+PSL Research University, Summer Coral Reef Formation, Moorea, French Polynesia (May, 2017)
+
+International Symposium of Marine Science (Gran Canaria, 2014)
+  - Assistant
+  
+
+## List of non-peer reviewed publications: book chapters, thesis, general articles, etc.
+
+PhD Thesis: Pérez-Rosales, G (2022). Diving deep on the reef slopes in French Polynesia: new insights into mesophotic coral ecosystems - Dépôt électronique des thèses - EPHE PSL
+
+Book Chapter: Pérez-Rosales, G (2020). Les mystères de la zone crépusculaire. Book Étonnants récifs - [CNRS Éditions](https://www.cnrseditions.fr/catalogue/ecologie-environnement-sciences-de-la-terre/etonnants-recifs/)
+
+Journal article: Pérez-Rosales, G (2019). Los ecosistemas mesofóticos. Una esperanza para los arrecifes de coral superficales. Revista InMare Nº3, 15-17
+
+Journal article: Pérez-Rosales, G (2017). Un Paraíso al Borde del Colapso. El blanqueamiento del coral pone en riesgo su futuro. Journal Okeanos. Revista de la Sociedad Atlántica de Oceanógrafos Nº5, 18-22
+
+BSc Thesis: Pérez-Rosales, G (2014). Estado de sobrepesca de las Islas Canarias/The state of overfishing in the Canary Islands - BSc Thesis. Acceda ULPGC
+
+(Request for copies [here](gonzalo.prb@gmail.com))
+
+
+
