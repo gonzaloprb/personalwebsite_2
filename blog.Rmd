@@ -15,38 +15,21 @@ base_url: https://gonzaloperezrosales.netlify.app/
  
 Blogs will be available soon.
 
-## Deephope expedition with Under The Pole. A dream come true
+## Deephope expedition with Under The Pole (UTP). A dream come true
 
-During my PhD fieldwork, we realised an expedition across ...
+When I discovered the Why (name of the sailing boat) and met the team in Mo’orea (French Polynesia), I realised that it would be very cool. After doing sporadic fieldwork in Moorea, I jumped on board in Tikehau (Tuamotu Archipelago), and I stayed there during the whole expedition, only jumping out at the end. We sailed to Tikehau, Rangiroa and Raroia from the Tuamotu Archipelago; Hiva Oa, Tahuata and Fatu Iva from the Marquesas Islands; Mangareva from the Gambier Archipelago and Raivavae from the Austral Archipelago. Then, we sampled Moorea again, Tahiti and Makatea. An unforgettable journey! 
 
+While there, I shared my time with Heloise Rouzé (Postdoc of the Project) and Michel Pichon (Professor, honorary researcher and guru of coral taxonomy). We spent endless hours on the deck processing samples, but our conversations were priceless in scientific learning. 
 
+I am not going to lie; I did not do much deep diving during this expedition because I still needed to gain the TEK diving skills. And I am still in the process of acquiring them! Divers from the UTP team were diving down to at least 100 m regularly, requiring a lot of experience. Anyway, I was happy with my freediving, snorkelling and diving until more or less 40 m depth. 
 
+In terms of science, we collected coral samples for taxonomy, genetics (connectivity and microbiome) and physiology. Some of the coral samples could easily represent the deepest records. We also collected environmental/oceanographical variables for the modelling, acoustic landscapes and eDNA. In a few words, our most important discoveries were a huge field of corals at 60-100 m in Makatea and the deepest light-dependent scleractinian coral at 172 m in the Gambier Islands. 
 
-It 
-was 
-insane
-sailing
-diving 
-tekdiving
-and 
-everything
+Aside from scientific fieldwork skills and knowledge, I gained sailing and TEK diving experience. The atmosphere on board was lovely. Our daily life was: working a lot (diving almost every day – if not snorkelling), relaxing on the “appero », working again, partying at night and repeat. I miss this lifestyle. 
 
+After the end of the expedition, I completed my JJCCR diving course. I need to gain TEK diving experience, and I hope to have the opportunity to return to all these expedition sites somehow.
 
-
-I still need to write this section!
-
-It is going to be cool!
-
-I am 
-
-doing
-
-this
-
-after
-
-Gon
-
+If you want to know more about this expedition, I recommend the film : "[La quete des Profondeurs](https://www.facebook.com/watch/?v=580468036050005), available in Arte. 
 
 
 ```{r layout = "l-page", echo=FALSE}
@@ -57,6 +40,28 @@ knitr::include_graphics("UTP_Family_Gazzola.jpg")
 
 
 ## Two internships at the CRIOBE
+
+### Living and participating everywhere in a research station.
+
+Having the opportunity of doing my internship in Mo’orea, the heart of French Polynesia, was a dream coming true.
+
+I worked under the supervision of Laetitia Hedouin. Initially, to work on a temporary database (Polynesia Mana) and to review available information about Mesophotic Coral Ecosystems in French Polynesia, it quickly became a multidisciplinary period. 
+I helped in the Coral nurseries, preparing and running experiments in mesocosms and the Coral spawning marathon. That was a lot of diving and time on the field. 
+
+My analysis of the database turned into a paper (my first one as a first author and accepted after three rounds of review). 
+Some of the algorithms I coded to measure the bleaching were necessary for other papers. The internship went so well that with Laetitia and Valeriano, we applied to the Ecole Doctorale EPHE to get a grant for a PhD. 
+
+### Coding, coding and coding. Falling in love with Rstudio
+
+The time you find out marine biology is more data analysis than diving. Supervised by Valeriano Parravicini, I spent a lot of time in R studio, and thanks to try-error-try, tutorials, StackOverflow, and Valeriano's advice, I started enjoying the algorithms. Well, and also thanks to a lot of frustration, thinking and "eureka" moments. 
+
+I worked on a functional bio-geographical approach to coral reef fish worldwide. When we were about to submit our manuscript, a new paper came out, making the traits I used not valid anymore for future studies. I would have loved to finish it, but I had to move on with my master, so someone else took the responsibility. Science is a challenging path. 
+
+To finish, I must say that replacing being underwater with coding gives me another way of satisfaction. 
+
+
+
+
 
 ### Coding, coding and coding
 
