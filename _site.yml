@@ -25,5 +25,8 @@ navbar:
       href: https://scholar.google.com/citations?user=qLfSUS4AAAAJ&hl=en
 output: distill::distill_article
 theme: "Gonzalo_theme.css"
-include:
-      after_body: footer.html
+
+# I am trying to add the footer
+
+# include:
+#       after_body: Gonzalo_footer.html or Gonzalo_footer.css or changing the Gonzalo_theme.css
