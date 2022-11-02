@@ -1,6 +1,6 @@
 ---
 title: "Blog"  # any name you want here
-description: This section is still in preparation. Coming out soon.
+description: Blogs are frequently updated.
 
 output:
   distill::distill_article:
@@ -12,12 +12,11 @@ twitter:
   creator: "@Perez_Rosales_G"
 base_url: https://gonzaloperezrosales.netlify.app/
 ---
- 
-Blogs will be available soon.
 
-## Deephope expedition with Under The Pole (UTP). A dream come true
 
-When I discovered the Why (name of the sailing boat) and met the team in Mo’orea (French Polynesia), I realised that it would be very cool. After doing sporadic fieldwork in Moorea, I jumped on board in Tikehau (Tuamotu Archipelago), and I stayed there during the whole expedition, only jumping out at the end. We sailed to Tikehau, Rangiroa and Raroia from the Tuamotu Archipelago; Hiva Oa, Tahuata and Fatu Iva from the Marquesas Islands; Mangareva from the Gambier Archipelago and Raivavae from the Austral Archipelago. Then, we sampled Moorea again, Tahiti and Makatea. An unforgettable journey! 
+## Deephope expedition with Under The Pole. A dream come true
+
+When I discovered the Why (name of the sailing boat) and met the Under The Pole (UTP) team in Mo’orea (French Polynesia), I realised that it would be very cool. After doing sporadic fieldwork in Moorea, I jumped on board in Tikehau (Tuamotu Archipelago), and I stayed there during the whole expedition, only jumping out at the end. We sailed to Tikehau, Rangiroa and Raroia from the Tuamotu Archipelago; Hiva Oa, Tahuata and Fatu Iva from the Marquesas Islands; Mangareva from the Gambier Archipelago and Raivavae from the Austral Archipelago. Then, we sampled Moorea again, Tahiti and Makatea. An unforgettable journey! 
 
 While there, I shared my time with Heloise Rouzé (Postdoc of the Project) and Michel Pichon (Professor, honorary researcher and guru of coral taxonomy). We spent endless hours on the deck processing samples, but our conversations were priceless in scientific learning. 
 
@@ -36,12 +35,19 @@ If you want to know more about this expedition, I recommend the film : "[La quet
 knitr::include_graphics("UTP_Family_Gazzola.jpg")
 ```
 
-## My PhD journey
+## My PhD - what a journey!
+
+If I look back, my PhD has been an amazing experience. I grew up as a scientist and also as a human. Yet, there have also been tough moments. Luckily my passion and perseverance made me go through these ups and downs, and now, I am proud of what I achieved. 
+
+I can separate my PhD into three sections and two working places. First, the fieldwork with UTP all around French Polynesia (over a year of my PhD). Being on a mission requires a lot of work, responsibilities and energy. You must know how to work in a team, and I promise you that – literally – I never stop. This section was also the most adventurous and exciting. Every day was different, snorkelling, diving and sailing to discover new places. Second, the processing of the samples and data acquisition (~a year and a half). During this period, my life became a pure routine. I spent endless hours in the lab and/or analysing photos. My days were super busy, and I did not have time for anything else outside my PhD. Anyway, I needed robust data with enough replicates to run my analysis, so it was justified by the fact that I wanted to have the data for analysis. I complained a lot, but it was always better to work because I wanted to finish as soon as possible. Third (about two years), the analysis time and writing manuscripts. At this stage, I had to fly back to Europe to live in Perpignan, regardless of my desire. I was leaving paradise on Earth (French Polynesia). Here, the ups and downs reached their maximum levels. Sometimes I felt my data was useless, and sometimes I had the best data. I had to synthesise all my ideas and data visualisations into paper storylines. Then, apply fancier tests to have more robust results. Writing and publishing a paper takes a lot of time. First, you need to convince yourself, then your supervisors, then your co-authors and then the editors and reviewers of the journal. Thanks, hard work pays off, and all time invested in the preparation of the manuscript turned out to be an easier and faster publishing process. I was luckier with my PhD manuscript submissions than with my internship paper. The fantastic fact was that all the time focused on my manuscripts, co-author feedback, and reviewers also translated into an easier way of wrapping up my PhD. For me, all sections have been necessary so far, yet I missed fieldwork and Polynesia so much during the last years of my PhD.
+
+To finish, I want to thank everyone who contributed to my success. Of course, these include my supervisors, but also many colleagues and friends who have been a real support in an altruistic way. These people are now co-authors of my publications and are mentioned in the acknowledgements of my thesis. Please do not hesitate to request the PDF of my thesis [here](gonzalo.prb@gmail.com).
+
 
 
 ## Two internships at the CRIOBE
 
-### Living and participating everywhere in a research station.
+### Fieldwork: Living and participating everywhere in a research station.
 
 Having the opportunity of doing my internship in Mo’orea, the heart of French Polynesia, was a dream coming true.
 
@@ -62,16 +68,9 @@ To finish, I must say that replacing being underwater with coding gives me anoth
 
 
 
+## Making it to the cover of journals around the world 
 
-### Coding, coding and coding
-
-### Fieldwork and coding 
-
-
-
-## From 2015 - Making it to the cover of journals around the world 
-
-Richard Vevers [The ocean Agency](https://www.theoceanagency.org/) took this picture of me while filming bleaching in Lizard Island. This picture has been featured in the New York Times, etc. 
+Richard Vevers [The ocean Agency](https://www.theoceanagency.org/) took this picture of me while filming bleaching on Lizard Island during the production of [Chasing Coral](https://www.chasingcoral.com/). Since then, this picture has been featured in many international journals, including the New York Times, BBC, The Guardian, etc. The experience with Chasing Coral convinced me how important communication is for scientists. I firmly believe the general public should know what we are doing as scientists. People have the right to be aware, and we must pass the message, so please reach out if you work in science communication. 
 
 ```{r layout = "l-page", echo=FALSE}
 knitr::include_graphics("Gonzalo_Lizard.jpg")
@@ -116,7 +115,6 @@ knitr::include_graphics("Chasing_Coral_Cover.jpg")
 This is an experience I will never forget. You can watch the film now on [Netflix](https://www.netflix.com/title/80168188) 
 
 
-
 ## Volunteering at University of Queensland. 
 
 This is one of the best coral reef labs worldwide. I did two experiences.
@@ -136,5 +134,9 @@ Additionally, a fieldwork opportunity arose, and I went to Heron Island Research
 
 
 ## Undergraduate student in the Canary Islands
+
+Moving to the Canary Islands for my studies was simply the best choice. Even if I must accept, I first moved there mainly because of surfing and diving; I quickly became even more in love with the ocean while learning about it. My studies and my leisure time were all in or about the ocean. Well, during my first two years, I probably preferred surfing more than studying, but good for me, I passed my exams without much struggle. Studying only when necessary, just before the exams. From my third year, I realised how important my grades would be for the future, so my desire to learn and be competitive made me focus on my studies as my priority and keep surfing and diving as the perfect breaks and free-time activities. 
+During my undergrad, my subject interests went from pure marine biology to physical oceanography to marine conservation and communication. To be honest, I knew I wanted to have an ocean-related professional career, but I needed to find the path. Most importantly, I had to look for opportunities abroad. 
+
 
 
