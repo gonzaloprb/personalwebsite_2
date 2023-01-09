@@ -12,6 +12,8 @@ navbar:
       href: research.html
     - text: "Blog"
       href: blog.html
+    - text: "Media"
+      href: media.html
     - text: "About"
       href: about.html
     - text: "CV"

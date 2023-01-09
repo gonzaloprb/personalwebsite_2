@@ -19,6 +19,15 @@ knitr::include_graphics("Rebreather.jpg")
 
 ```
 
+# Find more about my: 
+
+  [Research](https://gonzaloperezrosales.netlify.app/research.html)
+  
+  [Experiences](https://gonzaloperezrosales.netlify.app/blog.html)
+  
+  [Media on news. Newspaper, websites, TV & radio](https://gonzaloperezrosales.netlify.app/blog.html)
+  
+  [Me](https://gonzaloperezrosales.netlify.app/about.html)
 
 
 ```{r setup, include=FALSE}
@@ -35,6 +44,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <!--     url: https://gonzaloperezrosales.netlify.app/ -->
 <!--     affiliation: CRIOBE -->
 <!--     affiliation_url: http://www.criobe.pf/pro/personnel/doctorants/gonzalo-perez-rosales/ -->
+
 
 
 This is a site made with R Markdown, and the distill, postcards and deployed to Netlify
