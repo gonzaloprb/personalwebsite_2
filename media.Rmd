@@ -1,6 +1,6 @@
 ---
 title: "Media"  # any name you want here
-description: Media on newspaper, TV and radio are updated as they come out.
+description: Media on newspaper, TV and radio are updated as they come out. This text is still in preparation so expect bugs. 
 
 output:
   distill::distill_article:
@@ -22,8 +22,37 @@ Richard Vevers [The ocean Agency](https://www.theoceanagency.org/) took this pic
 knitr::include_graphics("Gonzalo_Lizard.jpg")
 ```
 
+[New York Times](https://www.nytimes.com/2017/03/16/insider/a-sea-change-for-climate-coverage.html);                  [Nature](https://www.nature.com/articles/d41586-018-04660-w);         [The Guardian](https://www.theguardian.com/environment/gallery/2016/jun/07/coral-graveyard-the-aftermath-of-bleaching-on-the-great-barrier-reef-in-pictures);        [Nbc news](https://www.nbcnews.com/news/world/scope-great-barrier-reef-s-massive-coral-bleaching-alarms-scientists-n867521);
+
+
 
 ## Le Figaro interested in my study
 
 My article in Diversity and Distributions was published in  [lefigaro](https://www.lefigaro.fr/sciences/la-surprenante-diversite-des-coraux-profonds-20220601?fbclid=IwAR1JC15ABbLG_5uXIP_bifHN35oAobOPEK1x-8xL8PYtgQfR8zSjtfImlOw) inside the section Sciences. 
+
+
+## The Conversation France interested in my study
+
+My article in Science of the Total Environment was published in  [TheConversationFrance](https://theconversation.com/plongee-au-coeur-des-coraux-crepusculaires-191466).
+
+```{r layout = "l-page", echo=FALSE}
+knitr::include_graphics("Makatea_80m.jpg")
+```
+An example of the hidden coral cover fields reported in my study. For instance in Makatea, Tuamotu, French Polynesia at 80 m depth. Copyright photo Julien Leblond / Under The Pole.
+
+
+## Españoles por el mundo 
+
+The main Spanish TV channel RTVE1, followed my life during my PhD in French Polynesia. 
+
+You can watch the film in Spanish [here](https://www.rtve.es/play/videos/espanoles-en-el-mundo/islas-de-tahiti/6103712/), where I talk about my research and my day a day life. If you don't have time, watch the [shorter version](https://www.youtube.com/watch?v=MLif2JUu_bk&t=12s&ab_channel=Espa%C3%B1olesenelmundo) or the  [trailer](https://www.youtube.com/watch?v=D3leBCDYbWg&ab_channel=Espa%C3%B1olesenelmundo) and keep it for the future. 
+
+
+## A Coral Champion according to the Lewis Pugh Foundation
+
+I had the pleasure to be chosen as a "Coral Champion" and share the space with some of the best coral reef scientists in the world. Find more [here](https://lewispughfoundation.org/coral-champions)
+
+```{r layout = "l-page", echo=FALSE}
+knitr::include_graphics("LewisPughFoto.jpeg")
+```
 
