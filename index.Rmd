@@ -19,15 +19,15 @@ knitr::include_graphics("Rebreather.jpg")
 
 ```
 
-# Find more about my: 
+# Find more about: 
 
-  [Research](https://gonzaloperezrosales.netlify.app/research.html)
+  [My research](https://gonzaloperezrosales.netlify.app/research.html)
   
-  [Experiences](https://gonzaloperezrosales.netlify.app/blog.html)
+  [My experiences](https://gonzaloperezrosales.netlify.app/blog.html)
   
-  [Media on news. Newspaper, websites, TV & radio](https://gonzaloperezrosales.netlify.app/media.html)
+  [My meadia on news. Newspaper, websites, TV & radio](https://gonzaloperezrosales.netlify.app/media.html)
   
-  [Me](https://gonzaloperezrosales.netlify.app/about.html)
+  [My life](https://gonzaloperezrosales.netlify.app/about.html)
 
 
 ```{r setup, include=FALSE}

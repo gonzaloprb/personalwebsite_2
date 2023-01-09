@@ -13,7 +13,7 @@ twitter:
 base_url: https://gonzaloperezrosales.netlify.app/
 ---
  
-My current and future research will be working on the [Super Reefs Project](https://superreefs.whoi.edu/) at [WHOI](https://www.whoi.edu/) to discover reefs across the tropics that can survive global warming and climate change. 
+My current and future research will be working on the [Super Reefs Project](https://superreefs.whoi.edu/) at [WHOI](https://www.whoi.edu/) to discover reefs across the tropics that can survive global warming and climate change.
  
 ## List of publications 
 
