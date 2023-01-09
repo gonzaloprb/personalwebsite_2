@@ -23,5 +23,7 @@ knitr::include_graphics("Gonzalo_Lizard.jpg")
 ```
 
 
+## Le Figaro interested in my study
 
+My article in Diversity and Distributions was published in  [lefigaro](https://www.lefigaro.fr/sciences/la-surprenante-diversite-des-coraux-profonds-20220601?fbclid=IwAR1JC15ABbLG_5uXIP_bifHN35oAobOPEK1x-8xL8PYtgQfR8zSjtfImlOw) inside the section Sciences. 
 
