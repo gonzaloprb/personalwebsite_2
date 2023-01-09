@@ -25,7 +25,7 @@ knitr::include_graphics("Rebreather.jpg")
   
   [Experiences](https://gonzaloperezrosales.netlify.app/blog.html)
   
-  [Media on news. Newspaper, websites, TV & radio](https://gonzaloperezrosales.netlify.app/blog.html)
+  [Media on news. Newspaper, websites, TV & radio](https://gonzaloperezrosales.netlify.app/media.html)
   
   [Me](https://gonzaloperezrosales.netlify.app/about.html)
 
