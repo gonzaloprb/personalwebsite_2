@@ -22,7 +22,7 @@ knitr::include_graphics("Rebreather.jpg")
 # Find more about: 
 
   [My research](https://gonzaloperezrosales.netlify.app/research.html)
-  
+   
   [My experiences](https://gonzaloperezrosales.netlify.app/blog.html)
   
   [My meadia on news. Newspaper, websites, TV & radio](https://gonzaloperezrosales.netlify.app/media.html)
@@ -30,7 +30,7 @@ knitr::include_graphics("Rebreather.jpg")
   [My life](https://gonzaloperezrosales.netlify.app/about.html)
 
 
-```{r setup, include=FALSE}
+```{r setup, include=FALSE} 
 knitr::opts_chunk$set(echo = FALSE) 
 
 # Learn more about creating websites with Distill at:
