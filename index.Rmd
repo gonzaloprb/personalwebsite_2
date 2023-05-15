@@ -19,15 +19,15 @@ knitr::include_graphics("Rebreather.jpg")
 
 ```
 
-# Find more about: 
+# Find more about my: 
 
-  [My research](https://gonzaloperezrosales.netlify.app/research.html)
+  [Research](https://gonzaloperezrosales.netlify.app/research.html)
    
-  [My experiences](https://gonzaloperezrosales.netlify.app/blog.html)
+  [Experiences](https://gonzaloperezrosales.netlify.app/blog.html)
   
-  [Me on news. Newspaper, websites, TV & radio](https://gonzaloperezrosales.netlify.app/media.html)
+  [Outreach: Newspaper, websites, TV & radio](https://gonzaloperezrosales.netlify.app/media.html)
   
-  [My life](https://gonzaloperezrosales.netlify.app/about.html)
+  [Life](https://gonzaloperezrosales.netlify.app/about.html)
 
 
 ```{r setup, include=FALSE} 
@@ -47,4 +47,4 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 
-This is a site made with R Markdown, and the distill, postcards and deployed to Netlify
+(This is a site made with R Markdown, and the distill, postcards and deployed to Netlify)
