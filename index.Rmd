@@ -27,7 +27,7 @@ knitr::include_graphics("Rebreather.jpg")
   
   [Outreach: Newspaper, websites, TV & radio](https://gonzaloperezrosales.netlify.app/media.html)
   
-  [Life](https://gonzaloperezrosales.netlify.app/about.html)
+  [Me](https://gonzaloperezrosales.netlify.app/about.html)
 
 
 ```{r setup, include=FALSE} 
