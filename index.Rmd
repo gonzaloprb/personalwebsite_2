@@ -5,7 +5,7 @@ site: distill::distill_website
 ---
 ##         Postdoctoral Investigator at Woods Hole Oceanographic Institution [WHOI](https://www.whoi.edu/)
 
-Finishing my contract in November 2023. Open to listen to future opportunities. Please get in [touch](mailto:gonzalo.prb@gmail.com)   
+Finishing my contract in November 2023. Open to listen to future opportunities. Please get in [touch](mailto:gonzalo.prb@gmail.com).   
 
 My goal is to use quantiative ecology tools for the conservation planning of coral reefs.
 
@@ -25,7 +25,7 @@ knitr::include_graphics("Rebreather.jpg")
 
   [Research](https://gonzaloperezrosales.netlify.app/research.html)
    
-  [Experiences](https://gonzaloperezrosales.netlify.app/blog.html)
+  [Experiences - Blog](https://gonzaloperezrosales.netlify.app/blog.html)
   
   [Outreach: Newspaper, websites, TV & radio](https://gonzaloperezrosales.netlify.app/media.html)
   
@@ -48,5 +48,6 @@ knitr::opts_chunk$set(echo = FALSE)
 <!--     affiliation_url: http://www.criobe.pf/pro/personnel/doctorants/gonzalo-perez-rosales/ -->
 
 
-
+<p style="font-family: times, serif; font-size:10pt; font-style:italic">
 (This is a site made with R Markdown, and the distill, postcards and deployed to Netlify)
+</p>
