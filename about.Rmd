@@ -2,8 +2,6 @@
 title: "Gonzalo Pérez-Rosales"
 image: "Profile_Portrait.jpg"
 links:
-  - label: '<i class="fas fa-envelope"></i> Email'
-    url: "gonzalo.prb@gmail.com"
   - label: '<i class="fab fa-twitter fa-lg"></i> Twitter'
     url: "https://twitter.com/Perez_Rosales_G"
   - label: '<i class="fas fa-graduation-cap"></i> Google Scholar'
@@ -15,7 +13,7 @@ links:
   - label: Orcid
     url: "https://twitter.com/Perez_Rosales_G"
   - label: Instagram
-    url: "https://www.instagram.com/gon_perezrosales/?hl=en"
+    url: "https://www.instagram.com/dr.gon_perezrosales/?hl=en"
   - label: Facebook
     url: "https://www.facebook.com/gonzalo.perezrosalesblanch"
 output:
@@ -73,6 +71,9 @@ B.S.c in Marine Science & Oceanography | 2010 - 2014
 
 
 ## More information available in my [CV](https://gonzaloperezrosales.netlify.app/CV_Gonzalo_PerezRosales.pdf)
+
+[Contact me](mailto:gonzalo.prb@gmail.com)
+
 
 
 
