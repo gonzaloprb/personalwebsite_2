@@ -14,8 +14,6 @@ links:
     url: "https://twitter.com/Perez_Rosales_G"
   - label: Instagram
     url: "https://www.instagram.com/dr.gon_perezrosales/?hl=en"
-  - label: Facebook
-    url: "https://www.facebook.com/gonzalo.perezrosalesblanch"
 output:
   postcards::trestles
 
