@@ -51,7 +51,7 @@ You can watch the film in Spanish [here](https://www.rtve.es/play/videos/espanol
 
 ## A Coral Champion according to the Lewis Pugh Foundation
 
-I had the pleasure to be chosen as a "Coral Champion" and share the space with some of the best coral reef scientists in the world. Find more [here](https://lewispughfoundation.org/coral-champions)
+(2022) I had the pleasure to be chosen as a "Coral Champion" and share the space with some of the best coral reef scientists in the world. Find more [here](https://lewispughfoundation.org/coral-champions)
 
 ```{r layout = "l-page", echo=FALSE}
 knitr::include_graphics("LewisPughFoto.jpeg")
@@ -61,7 +61,7 @@ knitr::include_graphics("LewisPughFoto.jpeg")
 
 ## Under The Pole 
 
-During our DEEPHOPE expedition in French Polynesia (2021), Under The Pole featured me in their documentary and webdocs. 
+(2021) During our DEEPHOPE expedition in French Polynesia (2021), Under The Pole featured me in their documentary and webdocs (2018-2019). 
 
 
 The [documentary film](https://www.imdb.com/title/tt19046556/) shows the highlights of the expedition. 
@@ -71,11 +71,18 @@ These are the different webdocs where I was featured [Tiputa Swing in Rangiroa](
 
 ## France Info Polynésie 1ère
 
-The local TV Polynèsie Première featured us to speak about the [findings of the expedition](https://www.facebook.com/watch/?mibextid=zDhOQc&v=2138255896294093) with Michel Pichon; the [coral bleaching event impacting Mo'orea in 2019](https://la1ere.francetvinfo.fr/polynesie/tahiti/environnement-coraux-suffoquent-698630.html) with Laetitia Hédouin; and the [prelimnary findings of Rangiroa](https://la1ere.francetvinfo.fr/polynesie/tuamotu/rangiroa/under-the-pole-explore-fonds-marins-rangiroa-661717.html) with Under The Pole. 
+(2019) The local TV Polynèsie Première featured us to speak about the [findings of the expedition](https://www.facebook.com/watch/?mibextid=zDhOQc&v=2138255896294093) with Michel Pichon; the [coral bleaching event](https://la1ere.francetvinfo.fr/polynesie/tahiti/environnement-coraux-suffoquent-698630.html) impacting Mo'orea in 2019 with Laetitia Hédouin; and the preliminary [findings of DEEPHOPE](https://la1ere.francetvinfo.fr/polynesie/tuamotu/rangiroa/under-the-pole-explore-fonds-marins-rangiroa-661717.html) in Rangiroa with Under The Pole. 
 
 
 
+## Chasing Coral on NETFLIX
 
+(2017) The film [Chasing Coral](https://www.chasingcoral.com/) made it to [Netflix](https://www.netflix.com/us-es/title/80168188), allowing the 230,000,000 users to watch the movie and learn about coral bleaching and the threat that climate change means for our beloved coral reefs.
+
+
+```{r layout = "l-page", echo=FALSE}
+knitr::include_graphics("Chasing_Coral_Cover.jpg")
+```
 
 
 
