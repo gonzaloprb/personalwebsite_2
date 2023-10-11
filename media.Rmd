@@ -42,7 +42,7 @@ knitr::include_graphics("Makatea_80m.jpg")
 An example of the hidden coral cover fields reported in my [study](https://www.sciencedirect.com/science/article/pii/S0048969722041468). For instance in Makatea, Tuamotu, French Polynesia at 80 m depth. Copyright photo Julien Leblond / Under The Pole.
 
 
-## Españoles por el mundo 
+## Españoles por el mundo, RTVE 
 
 (2021) The main Spanish TV channel RTVE1, followed my life during my PhD in French Polynesia. 
 
@@ -59,7 +59,7 @@ knitr::include_graphics("LewisPughFoto.jpeg")
 
 
 
-## Under The Pole 
+## Under The Pole, ARTE and Youtube 
 
 (2021) During our DEEPHOPE expedition in French Polynesia (2021), Under The Pole featured me in their documentary and webdocs (2018-2019). 
 
