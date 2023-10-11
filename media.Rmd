@@ -14,9 +14,10 @@ base_url: https://gonzaloperezrosales.netlify.app/
 ---
 
 
-## Making it to the cover of newspapers around the world 
+## Photographed and featured in newspapers around the world 
 
-Richard Vevers [The ocean Agency](https://www.theoceanagency.org/) took this picture of me while filming bleaching on Lizard Island during the production of [Chasing Coral](https://www.chasingcoral.com/). Since then, this picture has been featured in many international journals, including the New York Times, BBC, The Guardian, etc. The experience with Chasing Coral convinced me how important communication is for scientists. I firmly believe the general public should know what we are doing as scientists. People have the right to be aware, and we must pass the message, so please reach out if you work in science communication. 
+
+(2015) Richard Vevers [The ocean Agency](https://www.theoceanagency.org/) took this picture of me while filming bleaching on Lizard Island during the production of [Chasing Coral](https://www.chasingcoral.com/). Since then, this picture has been showed in many international journals, including the New York Times, BBC, The Guardian, etc. The experience with Chasing Coral convinced me how important communication is for scientists. The general public should know what we are doing as scientists. People have the right to be aware, and we must pass the message, so please reach out if you work in science communication. 
 
 ```{r layout = "l-page", echo=FALSE}
 knitr::include_graphics("Gonzalo_Lizard.jpg")
@@ -26,24 +27,24 @@ knitr::include_graphics("Gonzalo_Lizard.jpg")
 
 
 
-## Le Figaro interested in my study
+## Le Figaro (France) interested in my study
 
-My article in Diversity and Distributions was published in  [lefigaro](https://www.lefigaro.fr/sciences/la-surprenante-diversite-des-coraux-profonds-20220601?fbclid=IwAR1JC15ABbLG_5uXIP_bifHN35oAobOPEK1x-8xL8PYtgQfR8zSjtfImlOw) inside the section Sciences. 
+(2022) My article in Diversity and Distributions was published in  [lefigaro](https://www.lefigaro.fr/sciences/la-surprenante-diversite-des-coraux-profonds-20220601?fbclid=IwAR1JC15ABbLG_5uXIP_bifHN35oAobOPEK1x-8xL8PYtgQfR8zSjtfImlOw) inside the section Sciences. 
 
 
-## The Conversation France interested in my study
+## The Conversation (France) interested in my study
 
-My article in Science of the Total Environment was published in  [TheConversationFrance](https://theconversation.com/plongee-au-coeur-des-coraux-crepusculaires-191466).
+(2022) My article in Science of the Total Environment was published in  [TheConversationFrance](https://theconversation.com/plongee-au-coeur-des-coraux-crepusculaires-191466).
 
 ```{r layout = "l-page", echo=FALSE}
 knitr::include_graphics("Makatea_80m.jpg")
 ```
-An example of the hidden coral cover fields reported in my study. For instance in Makatea, Tuamotu, French Polynesia at 80 m depth. Copyright photo Julien Leblond / Under The Pole.
+An example of the hidden coral cover fields reported in my [study](https://www.sciencedirect.com/science/article/pii/S0048969722041468). For instance in Makatea, Tuamotu, French Polynesia at 80 m depth. Copyright photo Julien Leblond / Under The Pole.
 
 
 ## Españoles por el mundo 
 
-The main Spanish TV channel RTVE1, followed my life during my PhD in French Polynesia. 
+(2021) The main Spanish TV channel RTVE1, followed my life during my PhD in French Polynesia. 
 
 You can watch the film in Spanish [here](https://www.rtve.es/play/videos/espanoles-en-el-mundo/islas-de-tahiti/6103712/), where I talk about my research and my day a day life. If you don't have time, watch the [shorter version](https://www.youtube.com/watch?v=MLif2JUu_bk&t=12s&ab_channel=Espa%C3%B1olesenelmundo) or the  [trailer](https://www.youtube.com/watch?v=D3leBCDYbWg&ab_channel=Espa%C3%B1olesenelmundo) and keep it for the future. 
 
@@ -55,6 +56,28 @@ I had the pleasure to be chosen as a "Coral Champion" and share the space with s
 ```{r layout = "l-page", echo=FALSE}
 knitr::include_graphics("LewisPughFoto.jpeg")
 ```
+
+
+
+## Under The Pole 
+
+During our DEEPHOPE expedition in French Polynesia (2021), Under The Pole featured me in their documentary and webdocs. 
+
+
+The [documentary film](https://www.imdb.com/title/tt19046556/) shows the highlights of the expedition. 
+
+These are the different webdocs where I was featured [Tiputa Swing in Rangiroa](https://www.youtube.com/watch?v=gZG2pMdSoEk); [Raivavae, plongées australes](https://www.youtube.com/watch?v=61jSHDshLjw); and [Clap de Fin in Makatea and Tahiti](https://www.youtube.com/watch?v=maVq1HOQtTo)
+
+
+## France Info Polynésie 1ère
+
+The local TV Polynèsie Première featured us to speak about the [findings of the expedition](https://www.facebook.com/watch/?mibextid=zDhOQc&v=2138255896294093) with Michel Pichon; the [coral bleaching event impacting Mo'orea in 2019](https://la1ere.francetvinfo.fr/polynesie/tahiti/environnement-coraux-suffoquent-698630.html) with Laetitia Hédouin; and the [prelimnary findings of Rangiroa](https://la1ere.francetvinfo.fr/polynesie/tuamotu/rangiroa/under-the-pole-explore-fonds-marins-rangiroa-661717.html) with Under The Pole. 
+
+
+
+
+
+
 
 ## .....................................................
 
