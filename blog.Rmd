@@ -13,8 +13,27 @@ twitter:
 base_url: https://gonzaloperezrosales.netlify.app/
 ---
 
+## Postdoctoral Investigator at WHOI
 
-## Deephope expedition with Under The Pole. A dream come true!
+I completed a one-year Postdoc at Woods Hole Oceangraphic Institution [WHOI](https://www.whoi.edu/) at [Cohen Lab](https://www2.whoi.edu/site/cohenlab/super-reefs/), working on the [Super Reefs Project](https://superreefs.whoi.edu/). A joint project from WHOI, Stanford and The Nature Conservancy to identify the reefs most likely to withstand future heatwaves and conserve them to ensure the future of coral reefs with climate change. 
+
+During this Postdoc, I learned a lot about ocean modelling and realised (even more) how little we know about coral ecology and how important it is to collect in situ and long-term data. Super Reefs uses high-resolution hydrodynamic models (developed by WHOI scientists) based on Regional Ocean Modeling System (ROMS) to quantify fine-scale spatial variability in thermal history and heat stress exposure of coral communities. Then, overlap these micro-thermal environments with ecological data (previous bleaching responses) and physiological heat resistance (hotbox experiments) to understand the bleaching patchiness and predict the coral communities more likely to survive future heatwaves. The goal is to apply microtarget conservation of heat-resistant coral communities to ensure sources of heat-tolerant larvae to seed future reefs while we call for the needed energetic transition that will shift climate change. 
+
+Working with such an amazing team was an absolute pleasure. 
+
+```{r layout = "l-page", echo=FALSE}
+knitr::include_graphics("Marshall_Islands_photo.jpg")
+```
+
+
+```{r layout = "l-page", echo=FALSE}
+knitr::include_graphics("Hawaii_photo.jpg")
+```
+
+Yet I was ready to move on and go back to live in the tropics, closer to my beloved coral reefs and with more diving. 
+
+
+## Deephope expedition with Under The Pole. A dream come true
 
 When I discovered the Why (name of the sailing boat) and met the Under The Pole (UTP) team in Mo’orea (French Polynesia), I realised that it would be very cool. After doing sporadic fieldwork in Moorea, I jumped on board in Tikehau (Tuamotu Archipelago), and I stayed there during the whole expedition, only jumping out at the end. We sailed to Tikehau, Rangiroa and Raroia from the Tuamotu Archipelago; Hiva Oa, Tahuata and Fatu Iva from the Marquesas Islands; Mangareva from the Gambier Archipelago and Raivavae from the Austral Archipelago. Then, we sampled Moorea again, Tahiti and Makatea. An unforgettable journey! 
 

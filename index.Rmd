@@ -3,9 +3,9 @@ title: "Gonzalo Pérez-Rosales, PHD"
 description: I am a coral reef ecologist and oceanographer. 
 site: distill::distill_website
 ---
-##         Postdoctoral Investigator at Woods Hole Oceanographic Institution [WHOI](https://www.whoi.edu/)
+##         Postdoctoral Investigator at Hong Kong University of Science and Technology [HKUST](https://hkust.edu.hk/)
 
-Finishing my contract in November 2023. Open to listen to future opportunities. Please get in [touch](mailto:gonzalo.prb@gmail.com).   
+Open to listen to future opportunities, including research, communication and conservation. Please get in [touch](mailto:gonzalo.prb@gmail.com).   
 
 My goal is to use quantiative ecology tools for the conservation planning of coral reefs.
 
