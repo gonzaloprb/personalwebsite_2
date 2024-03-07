@@ -5,7 +5,7 @@ site: distill::distill_website
 ---
 ##         Postdoctoral Investigator in the OceanEcol ([Dr. Wyatt Lab](https://www.oceanecol.com/)) at [HKUST](https://hkust.edu.hk/)
 
-Open to listenning to future opportunities and collaborations, including research, communication and conservation. Please get in touch [here](mailto:gonzalo.prb@gmail.com).   
+Open to listening to future opportunities and collaborations, including research, communication and conservation. Please get in touch [here](mailto:gonzalo.prb@gmail.com).   
 
 My goal is to use quantiative ecology tools for the conservation planning of coral reefs.
 
