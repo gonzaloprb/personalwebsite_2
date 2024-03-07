@@ -1,5 +1,5 @@
 ---
-title: "Gonzalo Pérez-Rosales, PHD"
+title: "Gonzalo Pérez-Rosales, PhD"
 description: I am a TEK Diver, coral reef ecologist and oceanographer. 
 site: distill::distill_website
 ---
