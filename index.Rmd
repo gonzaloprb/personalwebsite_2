@@ -3,7 +3,7 @@ title: "Gonzalo Pérez-Rosales, PHD"
 description: I am a coral reef ecologist and oceanographer. 
 site: distill::distill_website
 ---
-##         Postdoctoral Investigator at Hong Kong University of Science and Technology [HKUST](https://hkust.edu.hk/)
+##         Postdoctoral Investigator in the [OceanEcol Lab](https://www.oceanecol.com/) at the Hong Kong University of Science and Technology [HKUST](https://hkust.edu.hk/)
 
 Open to listen to future opportunities, including research, communication and conservation. Please get in [touch](mailto:gonzalo.prb@gmail.com).   
 
