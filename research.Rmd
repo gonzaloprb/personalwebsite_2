@@ -1,6 +1,6 @@
 ---
 title: "Research"  # any name you want here
-description: I study coral reef ecology with a particular interest in Mesophotic Coral Ecosystems and Coral Reefs. My ultimate goal is to use quantitative ecology analysis for the conservation planning of coral reefs with global warming and climate change.
+description: I study coral reef ecology with a particular interest in Mesophotic Coral Ecosystems. My ultimate goal is to use quantitative ecology analysis for the conservation planning of coral reefs with global warming and climate change.
 
 output:
   distill::distill_article:
