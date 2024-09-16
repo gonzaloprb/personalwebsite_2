@@ -16,6 +16,7 @@ base_url: https://gonzaloperezrosales.netlify.app/
  
 ## List of publications 
 
+**Pérez-Rosales G**, Rouzé H, Pichon M, Bongaerts P, Bregere N, Carlot J, UTP Consortium, Parravicini V, Hédouin L. (2024) Differential strategies developed by two light-dependent scleractinian corals to extend their vertical range to mesophotic depths. Coral Reefs https://doi.org/10.1007/s00338-024-02544-2
 
 **Pérez-Rosales G**, Hernández-Agreda A, Bongaerts P, Rouzé H, Pichon M, Carlot J, Torda G, UTP Consortium, Hédouin L, Parravicini V. (2022) Mesophotic depths hide high coral cover communities in French Polynesia. Science of the Total Environment https://doi.org/10.1016/j.scitotenv.2022.157049 
 
@@ -24,6 +25,8 @@ base_url: https://gonzaloperezrosales.netlify.app/
 **Pérez-Rosales G**, Brandl SJ, Chancerelle Y, Siu G, Martinez E, Parravicini V, Hédouin L. (2021) Documenting decadal disturbance dynamics reveals archipelago-specific recovery and compositional change on Polynesian reefs. Marine Pollution Bulletin; 170:112659. https://doi.org/10.1016/j.marpolbul.2021.112659
 
 **Pérez-Rosales G**, Rouzé H, Torda G, Bongaerts P, Pichon M, Parravicini V, Hédouin L. (2021) Mesophotic coral communities escape thermal coral bleaching in French Polynesia. R. Soc. Open Sci. 8: 210139. https://doi.org/10.1098/rsos.210139
+
+Raick X, Parmentier E, Gervaise C, Lecchini D, Under The Pole Consortium, **Pérez-Rosales G**, Rouzé H, Bertucci F, Di Iorio L. (2024) Invertebrate sounds from photic to mesophotic coral reefs reveal vertical stratification and diel diversity. Oecologia 205, 307-322. https://doi.org/10.1007/s00442-024-05572-5 
 
 Carlot J, Vousdoukas M, Rovere A, Karambas T, Lenihan HS, Kayal M, Adjeroud M, **Pérez-Rosales G**, Hedouin L, Parravicini V. Coral reef structural complexity loss exposes coastlines to waves. Scientific Reports. 13(1):1683 https://doi.org/10.1038/s41598-023-28945-x  
 
@@ -38,6 +41,16 @@ Moritz C, Brandl SJ, Rouzé H, Vii J, **Pérez-Rosales G**, Bosserelle P, Chance
 Hédouin L, Rouzé H, Berthe C, **Pérez-Rosales G**, Martinez E, Chancerelle Y, Galand PE, Lerouvreur F, Nugues MM, Pochon X, Siu G. (2020) Contrasting patterns of mortality in Polynesian coral reefs following the third global coral bleaching event in 2016. Coral Reefs; 39(4):939-52. https://doi.org/10.1007/s00338-020-01914-w
 
 Bongaerts P, **Perez-Rosales G**, Radice VZ, Eyal G, Gori A, Gress E, Hammerman NM, Hernandez-Agreda A, Laverick J, Muir P, Pinheiro H. (2019) Mesophotic.org: a repository for scientific information on mesophotic ecosystems. Oxford Database; https://doi.org/10.1093/database/baz140
+
+## In review
+
+Radice V, Hernández-Agreda A, **Pérez-Rosales G**, et. al Recent trends and biases in mesophotic ecosystem research. Biology Letters RSBL-2024-0465
+Colin JA, Lock C, **Pérez-Rosales G**, Rouzé H, Loreto Paulino Jr. L, Raymundo LJ, Bentlage B Symbiodiniaceae phenotypic traits as stress bioindicators for coral transplantation and cold-water bleaching. Marine Pollution Bulletin MPB-D-24-02156
+
+# In preparation
+
+**Pérez-Rosales G**, Cohen A, Jia Y, Mollica N, Galochkina M, Tong E, Thorrold SR, Zhang G. Pacific island coral communities experience fine-scale spatial and temporal heat variability across heatwaves
+
 
 ## International conferences and workshops
 
