@@ -48,6 +48,10 @@ An example of the hidden coral cover fields reported in my [study](https://www.s
 
 You can watch the film in Spanish [here](https://www.rtve.es/play/videos/espanoles-en-el-mundo/islas-de-tahiti/6103712/), where I talk about my research and my day a day life. If you don't have time, watch the [shorter version](https://www.youtube.com/watch?v=MLif2JUu_bk&t=12s&ab_channel=Espa%C3%B1olesenelmundo) or the  [trailer](https://www.youtube.com/watch?v=D3leBCDYbWg&ab_channel=Espa%C3%B1olesenelmundo) and keep it for the future. 
 
+```{r layout = "l-page", echo=FALSE}
+knitr::include_graphics("Españoles_porelmundo.HEIC")
+```
+
 
 ## A Coral Champion according to the Lewis Pugh Foundation
 

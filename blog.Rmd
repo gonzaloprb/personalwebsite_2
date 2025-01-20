@@ -13,6 +13,22 @@ twitter:
 base_url: https://gonzaloperezrosales.netlify.app/
 ---
 
+## RGC Postdoctoral Fellowship at HKUST
+
+Granted the honorary RGC Postdoctoral fellowship  [UGC](https://www.ugc.edu.hk/eng/rgc/funding_opport/jrfs/) to work at the [Ocean Ecol Lab](https://www.oceanecol.com/) from [HKUST](https://hkust.edu.hk/). Our fieldwork plans to occur in the Coral Triangle, mainly in Indonesia, using technical diving to access mesophotic depths.
+
+```{r layout = "m-page", echo=FALSE}
+knitr::include_graphics("RGC_Fellowship.jpg")
+```
+
+I am enjoying my time working at HKUST. We have a fantastic campus with all the facilities to conduct our research. I like being in Hong Kong because besides being so close to South East Asia, HK has a lot of nature, security, tropical weather and delicious food. Our lab does lots of diving, which I always want to do more. 
+
+```{r layout = "l-page", echo=FALSE}
+knitr::include_graphics("HKUST_Background.JPG")
+```
+
+
+
 ## Postdoctoral Investigator at WHOI
 
 I completed a one-year Postdoc at Woods Hole Oceangraphic Institution [WHOI](https://www.whoi.edu/) at [Cohen Lab](https://www2.whoi.edu/site/cohenlab/super-reefs/), working on the [Super Reefs Project](https://superreefs.whoi.edu/). A joint project from WHOI, Stanford and The Nature Conservancy to identify the reefs most likely to withstand future heatwaves and conserve them to ensure the future of coral reefs with climate change. 
@@ -58,10 +74,20 @@ knitr::include_graphics("UTP_Family_Gazzola.jpg")
 
 If I look back, my PhD has been an amazing experience. I grew up as a scientist and also as a human. Yet, there have also been tough moments. Luckily my passion and perseverance made me go through these ups and downs, and now, I am proud of what I achieved. 
 
+```{r layout = "l-page", echo=FALSE}
+knitr::include_graphics("Moorea_Living.JPG")
+```
+Living in Mo'orea (Polynesia) was a dream come true!
+
 I can separate my PhD into three sections and two working places. First, the fieldwork with UTP all around French Polynesia (over a year of my PhD). Being on a mission requires a lot of work, responsibilities and energy. You must know how to work in a team, and I promise you that – literally – I never stop. This section was also the most adventurous and exciting. Every day was different, snorkelling, diving and sailing to discover new places. Second, the processing of the samples and data acquisition (~a year and a half). During this period, my life became a pure routine. I spent endless hours in the lab and/or analysing photos. My days were super busy, and I did not have time for anything else outside my PhD. Anyway, I needed robust data with enough replicates to run my analysis, so it was justified by the fact that I wanted to have the data for analysis. I complained a lot, but it was always better to work because I wanted to finish as soon as possible. Third (about two years), the analysis time and writing manuscripts. At this stage, I had to fly back to Europe to live in Perpignan, regardless of my desire. I was leaving paradise on Earth (French Polynesia). Here, the ups and downs reached their maximum levels. Sometimes I felt my data was useless, and sometimes I had the best data. I had to synthesise all my ideas and data visualisations into paper storylines. Then, apply fancier tests to have more robust results. Writing and publishing a paper takes a lot of time. First, you need to convince yourself, then your supervisors, then your co-authors and then the editors and reviewers of the journal. Thanks, hard work pays off, and all time invested in the preparation of the manuscript turned out to be an easier and faster publishing process. I was luckier with my PhD manuscript submissions than with my internship paper. The fantastic fact was that all the time focused on my manuscripts, co-author feedback, and reviewers also translated into an easier way of wrapping up my PhD. For me, all sections have been necessary so far, yet I missed fieldwork and Polynesia so much during the last years of my PhD.
 
 To finish, I want to thank everyone who contributed to my success. Of course, these include my supervisors, but also many colleagues and friends who have been a real support in an altruistic way. These people are now co-authors of my publications and are mentioned in the acknowledgements of my thesis. Please do not hesitate to request the PDF of my thesis [here](gonzalo.prb@gmail.com).
 
+```{r layout = "m-page", echo=FALSE}
+knitr::include_graphics("PhD_Defense.JPG")
+```
+
+During my PhD Defence on July 13th, 2022. Granted the PhD title without the need for any changes in the Thesis. 
 
 
 ## Two internships at the CRIOBE
