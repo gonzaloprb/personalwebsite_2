@@ -180,15 +180,16 @@ Additionally, a fieldwork opportunity arose, and I went to Heron Island Research
 
 ## Undergraduate student in the Canary Islands
 
-Moving to the Canary Islands for my studies was simply the best choice. Even if I must accept, I first moved there mainly because of surfing and diving. Yet, while enjoying my hobbies, I quickly became even more in love with the ocean while learning more and more about it. Thanks, [Universidad de Las Palmas de Gran Canaria](http://ulpgc.es/) y [Facultad de Ciencias del Mar](https://mar.ulpgc.es/) – it was an absolute pleasure. 
-My studies and my leisure time were all in or about the ocean. Well, during my first two years, I preferred surfing to studying, but good for me, I passed my exams without much struggle. Studying when necessary while enjoying the quality of life in the Canary Islands. From my third year, I realised how important my grades would be for the future, so my desire to learn and be competitive made me focus on my studies as my priority and keep surfing and diving as the perfect breaks and free-time activities.
+Moving to the Canary Islands for my studies was simply the best choice. I quickly became even more in love with the ocean while learning more and more about it. Thanks, [Universidad de Las Palmas de Gran Canaria](http://ulpgc.es/) y [Facultad de Ciencias del Mar](https://mar.ulpgc.es/) – it was an absolute pleasure. 
+My studies and my leisure time were all in or about the ocean. Studying and working hard and enjoying surfing and diving in my leisure time. 
+
 
 ```{r layout = "l-page", echo=FALSE}
 knitr::include_graphics("1a_Grado_CCM.jpg")
 ```
 We were the first generation in the Grado de Ciencias del Mar. 
 
-During my undergrad, my subject interests went from pure marine biology to physical oceanography to marine conservation and communication. To be honest, I knew I wanted to have an ocean-related professional career, but I needed to find my way. Following the recommendations from my best teaching mentors, I had to look for opportunities abroad. Who knows if one day I will be able to come back?
+During my undergraduate studies, my subject interests switched from pure marine biology to physical oceanography to marine conservation and communication to fisheries management. I wanted an ocean-related professional career, ideally in science, but I needed to find my way and opportunities. Following the recommendations from my best teaching mentors, I had to look for the best opportunities abroad. So I did, and who knows if one day I will be able to come back? Hopefully yes!
 
 
 ## .....................................................
