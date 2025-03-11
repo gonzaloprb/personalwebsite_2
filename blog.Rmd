@@ -181,7 +181,7 @@ Additionally, a fieldwork opportunity arose, and I went to Heron Island Research
 ## Undergraduate student in the Canary Islands
 
 Moving to the Canary Islands for my studies was simply the best choice. I quickly became even more in love with the ocean while learning more and more about it. Thanks, [Universidad de Las Palmas de Gran Canaria](http://ulpgc.es/) y [Facultad de Ciencias del Mar](https://mar.ulpgc.es/) – it was an absolute pleasure. 
-My studies and my leisure time were all in or about the ocean. Studying and working hard and enjoying surfing and diving in my leisure time. 
+My studies and my leisure time were all in or about the ocean. Studying and working hard and enjoying ocean related activities such as diving and surfing in my leisure time. 
 
 
 ```{r layout = "l-page", echo=FALSE}
