@@ -16,6 +16,8 @@ base_url: https://gonzaloperezrosales.netlify.app/
  
 ## List of publications 
 
+Jia Y, Zhang WG, Lentz SJ, Mollica NR, **Pérez-Rosales G**, Cohen AL. Fine-scale hydrodynamic variability at Majuro Atoll, Republic of the Marshall islands. Part I: Flow variability. Progress in Oceanography. https://doi.org/10.1016/j.pocean.2025.103648 
+
 **Pérez-Rosales G**, Rouzé H, Pichon M, Bongaerts P, Bregere N, Carlot J, UTP Consortium, Parravicini V, Hédouin L. (2024) Differential strategies developed by two light-dependent scleractinian corals to extend their vertical range to mesophotic depths. Coral Reefs https://doi.org/10.1007/s00338-024-02544-2
 
 Radice V, Hernández-Agreda A, **Pérez-Rosales G**, et. al, Bongaerts P. (2024) Recent trends and biases in mesophotic ecosystem research. Biology Letters https://doi.org/10.1098/rsbl.2024.0465 (equal contribution to the study)
