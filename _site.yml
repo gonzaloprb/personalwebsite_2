@@ -21,8 +21,10 @@ navbar:
   left:
     - icon: fa fa-linkedin
       href: https://www.linkedin.com/in/gonzalo-p%C3%A9rez-rosales-40a963b1/
-    - icon: google-scholar
+    - icon: ai ai-google-scholar
       href: https://scholar.google.com/citations?user=qLfSUS4AAAAJ&hl=en
+    - icon: fa fa-github
+      href: https://github.com/gonzaloprb
 output: distill::distill_article
 theme: "Gonzalo_theme.css"
 include:
