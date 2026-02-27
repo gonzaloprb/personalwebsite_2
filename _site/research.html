@@ -111,7 +111,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","output","twitter","base_url"]}},"value":[{"type":"character","attributes":{},"value":["Research"]},{"type":"character","attributes":{},"value":["I study coral reef ecology with a particular interest in Mesophotic Coral Ecosystems. My ultimate goal is to use quantitative ecology analysis to increase our knowledge of coral reef functioning and advise on the conservation planning of coral reefs with climate change."]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["toc","css"]}},"value":[{"type":"logical","attributes":{},"value":[true]},{"type":"character","attributes":{},"value":["css/jhelvy.css","css/small-spacing.css"]}]}]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["creator"]}},"value":[{"type":"character","attributes":{},"value":["@Perez_Rosales_G"]}]},{"type":"character","attributes":{},"value":["https://gonzaloperezrosales.netlify.app/"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","output","twitter","base_url"]}},"value":[{"type":"character","attributes":{},"value":["Research"]},{"type":"character","attributes":{},"value":["I study coral reef ecology with a particular interest in Mesophotic Coral Ecosystems. My ultimate goal is to use quantitative ecology analysis to increase our knowledge of coral reef functioning and advise on the conservation planning of coral reefs with climate change."]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["toc","css","includes"]}},"value":[{"type":"logical","attributes":{},"value":[true]},{"type":"character","attributes":{},"value":["css/jhelvy.css","css/small-spacing.css"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["after_body"]}},"value":[{"type":"character","attributes":{},"value":["footer.html"]}]}]}]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["creator"]}},"value":[{"type":"character","attributes":{},"value":["@Perez_Rosales_G"]}]},{"type":"character","attributes":{},"value":["https://gonzaloperezrosales.netlify.app/"]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -2229,7 +2229,35 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
   /*-- Additional custom styles --*/
   /* Add any additional CSS rules below                      */
-  </style>
+
+  /* Footer styles */
+  .site-footer {
+    padding: 2rem 0;
+    margin-top: 3rem;
+    border-top: 1px solid #e9ecef;
+    text-align: center;
+    background-color: transparent; /* This will let your theme colors show through */
+  }
+
+  .back-to-top {
+    display: inline-block;
+    padding: 10px 20px;
+    color: #045F77;  /* Matches your title color */
+    text-decoration: none;
+    font-size: 1.1rem;
+    transition: all 0.3s ease;
+  }
+
+  .back-to-top:hover {
+    color: #0245a3;
+    transform: translateY(-2px);
+    text-decoration: none;
+  }
+
+  /* Smooth scrolling for the whole page */
+  html {
+    scroll-behavior: smooth;
+  }</style>
   <style type="text/css">
   /* base style */
 
@@ -2516,6 +2544,15 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </div>
 
 
+<footer class="site-footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <a href="#" class="back-to-top">↑ Go back to the top of the page ↑</a>
+      </div>
+    </div>
+  </div>
+</footer>
 <!--radix_placeholder_site_after_body-->
 <!--/radix_placeholder_site_after_body-->
 <!--radix_placeholder_appendices-->

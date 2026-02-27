@@ -15,7 +15,9 @@ links:
   - label: Instagram
     url: "https://www.instagram.com/dr.gon_perezrosales/?hl=en"
 output:
-  postcards::trestles 
+  postcards::trestles:
+    includes:
+      after_body: footer.html
 
 
 

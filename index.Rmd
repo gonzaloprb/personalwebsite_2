@@ -2,6 +2,10 @@
 title: "Gonzalo Pérez-Rosales, PhD"
 description: I am a coral reef ecologist, oceanographer and TEK Diver.
 site: distill::distill_website
+output: 
+  distill::distill_article:
+    includes:
+      after_body: footer.html
 ---
 ##         Postdoctoral RGC Fellowship in the OceanEcol ([Dr. Wyatt Lab](https://www.oceanecol.com/)) at [HKUST](https://hkust.edu.hk/)
 

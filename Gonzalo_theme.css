@@ -76,3 +76,31 @@ d-appendix {
 /*-- Additional custom styles --*/
 /* Add any additional CSS rules below                      */
 
+/* Footer styles */
+.site-footer {
+  padding: 2rem 0;
+  margin-top: 3rem;
+  border-top: 1px solid #e9ecef;
+  text-align: center;
+  background-color: transparent; /* This will let your theme colors show through */
+}
+
+.back-to-top {
+  display: inline-block;
+  padding: 10px 20px;
+  color: #045F77;  /* Matches your title color */
+  text-decoration: none;
+  font-size: 1.1rem;
+  transition: all 0.3s ease;
+}
+
+.back-to-top:hover {
+  color: #0245a3;
+  transform: translateY(-2px);
+  text-decoration: none;
+}
+
+/* Smooth scrolling for the whole page */
+html {
+  scroll-behavior: smooth;
+}

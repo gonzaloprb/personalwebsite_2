@@ -8,6 +8,8 @@ output:
     css:
       - css/jhelvy.css
       - css/small-spacing.css
+    includes:
+      after_body: footer.html
 twitter:
   creator: "@Perez_Rosales_G"
 base_url: https://gonzaloperezrosales.netlify.app/ 
