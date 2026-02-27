@@ -16,7 +16,9 @@ base_url: https://gonzaloperezrosales.netlify.app/
  
 ## List of publications 
 
-Jia Y, Zhang WG, Lentz SJ, Mollica NR, **Pérez-Rosales G**, Cohen AL. Fine-scale hydrodynamic variability at Majuro Atoll, Republic of the Marshall islands. Part I: Flow variability. Progress in Oceanography. https://doi.org/10.1016/j.pocean.2025.103648 
+**Pérez-Rosales G**, Pei Y-D, Bennet-Williams J, King TB, Rummel M, Chung TH, Wyatt ASJW (2026) Shallow seasonal stratification ameliorates coral bleaching during record-breaking marine heatwaves in a marginal subtropical system. Coral Reefs. https://doi.org/10.1007/s00338-026-02835-w
+
+Jia Y, Zhang WG, Lentz SJ, Mollica NR, **Pérez-Rosales G**, Cohen AL (2025) Fine-scale hydrodynamic variability at Majuro Atoll, Republic of the Marshall islands. Part I: Flow variability. Progress in Oceanography. https://doi.org/10.1016/j.pocean.2025.103648 
 
 **Pérez-Rosales G**, Rouzé H, Pichon M, Bongaerts P, Bregere N, Carlot J, UTP Consortium, Parravicini V, Hédouin L. (2024) Differential strategies developed by two light-dependent scleractinian corals to extend their vertical range to mesophotic depths. Coral Reefs https://doi.org/10.1007/s00338-024-02544-2 
 
@@ -49,8 +51,6 @@ Hédouin L, Rouzé H, Berthe C, **Pérez-Rosales G**, Martinez E, Chancerelle Y,
 Bongaerts P, **Perez-Rosales G**, Radice VZ, Eyal G, Gori A, Gress E, Hammerman NM, Hernandez-Agreda A, Laverick J, Muir P, Pinheiro H. (2019) Mesophotic.org: a repository for scientific information on mesophotic ecosystems. Oxford Database; https://doi.org/10.1093/database/baz140
 
 ## In review
-
-**Pérez-Rosales G**, Pei Y-D, Bennett-Williams J, King T, Rummel M, Chung TH, Wyatt ASJ. Shallow seasonal stratification ameliorates coral bleaching during record-breaking marine heatwaves in a marginal subtropical system. Coral Reefs
 
 Pei Y-D, Wang S, Skinner C, **Pérez-Rosales G**, Intan AG, Nandi S, Wyatt ASJ. Individual trophic plasticity as a functional trait in mixotrophic corals across an estuarine–oceanic gradient. Proc R Soc Lond B Biol Sci
 
