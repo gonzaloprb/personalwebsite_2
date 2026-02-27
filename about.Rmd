@@ -19,8 +19,6 @@ output:
     includes:
       after_body: footer.html
 
-
-
 ---
 
 ## Bio

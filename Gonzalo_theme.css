@@ -85,16 +85,18 @@ d-appendix {
   background-color: transparent; /* This will let your theme colors show through */
 }
 
-.back-to-top {
+#back-to-top-link {
   display: inline-block;
   padding: 10px 20px;
   color: #045F77;  /* Matches your title color */
   text-decoration: none;
   font-size: 1.1rem;
   transition: all 0.3s ease;
+  cursor: pointer; /* Ensures it shows as clickable */
+  z-index: 1000; /* Makes sure it's above other elements */
 }
 
-.back-to-top:hover {
+#back-to-top-link:hover {
   color: #0245a3;
   transform: translateY(-2px);
   text-decoration: none;
